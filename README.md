@@ -48,3 +48,9 @@ Intel Core i7-13620H
 
 MIT
 
+
+## How to Explore This Repository
+
+1. Open the `Measured Data` folder to review the experimental measurements.
+2. Check the Unity version and hardware specifications above to understand the test environment.
+3. Watch the linked video playlist for a visual comparison of the methods.
